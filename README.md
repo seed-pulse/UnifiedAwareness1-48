@@ -1,7 +1,5 @@
 # UnifiedAwareness1-48
 
-# UnifiedAwareness1-44
-
 # PlanetaryAwareness
 
 # The Structure of Consciousness: From Human to Cosmos
